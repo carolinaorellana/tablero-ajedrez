@@ -1,0 +1,16 @@
+h1{
+    color: chocolate;
+}
+.contenedor{
+    width: 80%;
+}
+.cuadros{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+.cuadrososcuro{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
